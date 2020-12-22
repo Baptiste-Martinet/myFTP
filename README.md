@@ -1,2 +1,2 @@
 # myFTP
-Implementation of an FTP (File transfert protocole) server
+Implementation of an FTP (File transfert protocole) server.
